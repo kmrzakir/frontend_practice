@@ -1,0 +1,81 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-color: #f6d050;
+    --second-text-color: #808aa0;
+  }
+  body
+  {
+    background-color: var(--main-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Figtree", serif;
+  }
+  main
+  {
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 30px;
+    gap: 10px;
+    width: 300px;
+    height: auto;
+    box-shadow: 7px 8px 0px black;
+  }
+  .title-image
+  {
+    width: 100%;
+    height: 40%;
+    /* border-radius: 10%; */
+  }
+  .button
+  {
+    border: none;
+    background-color: var(--main-color);
+    padding: 8px;
+    width: 30%;
+    border-radius: 4px;
+  }
+  .button b
+  {
+    font-weight: bolder;
+  }
+  .date_of_publish
+  {
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  .title-text
+  {
+    color: var(--main-color);
+    white-space: nowrap;
+    font-size: 1.5rem;
+  }
+  .sub-title-text
+  {
+    color: var(--second-text-color);
+    font-size: 0.8rem;
+  }
+  .author
+  {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .author img
+  {
+    width: 40px;
+    height: 40px;
+  }
+  .author h3
+  {
+    font-size: 0.9rem;
+  }
