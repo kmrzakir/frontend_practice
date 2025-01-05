@@ -19,10 +19,10 @@ This is my solution to the Blog Preview Card challenge on Frontend Mentor. The g
 
 ### Screenshot:
 - **Desktop View:**  
-  ![Desktop Screenshot](./screenshot-desktop.png)
+  ![Desktop Screenshot](./Blog-preview-card/images/desktop-view.png)
 
 - **Mobile View:**  
-  ![Mobile Screenshot](./screenshot-mobile.png)
+  ![Mobile Screenshot](./Blog-preview-card/images/mobile-view.png)
 
 ---
 
