@@ -9,8 +9,7 @@ This is my solution to the Blog Preview Card challenge on Frontend Mentor. The g
 2. [Built With](#built-with)
 3. [What I Learned](#what-i-learned)
 4. [Continued Development](#continued-development)
-5. [Screenshot](#screenshot)
-6. [Author](#author)
+5. [Author](#author)
 
 ---
 
@@ -46,16 +45,7 @@ This is my solution to the Blog Preview Card challenge on Frontend Mentor. The g
 
 ---
 
-## 5. Screenshot:
-- Desktop View:  
-  ![Desktop Screenshot](./images/desktop-view.png)
-
-- Mobile View:  
-  ![Mobile Screenshot](./images/mobile-view.png)
-
----
-
-## 6. Author:
+## 5. Author:
 - **Frontend Mentor** - [zakir dar](https://www.frontendmentor.io/profile/zakir_dar)
 - **GitHub** - [kmrzakir](https://github.com/kmrzakir)
 
