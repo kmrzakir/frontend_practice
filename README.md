@@ -53,5 +53,5 @@ This is my solution to the Blog Preview Card challenge on Frontend Mentor. The g
 
 ### Links
 
-- **Solution URL**: [Add solution URL here](https://your-solution-url.com)
+- **Solution URL**: [Add solution URL here](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 - **Live Site URL**: [Live Demo](https://kmrzakir.github.io/frontend_practice/Blog-preview-card/index.html)
