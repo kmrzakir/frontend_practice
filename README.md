@@ -1,15 +1,15 @@
-Frontend Mentor - Blog Preview Card Solution
+# Frontend Mentor - Blog Preview Card Solution
 
 This is my solution to the Blog Preview Card challenge on Frontend Mentor. The goal of this challenge was to create a responsive blog preview card using only HTML and CSS.
 
 ---
 
 ## Table of Contents:
-1. [Overview](#overview)
-2. [Built With](#built-with)
-3. [What I Learned](#what-i-learned)
-4. [Continued Development](#continued-development)
-5. [Author](#author)
+1. [Overview](#1-overview)
+2. [Built With](#2-built-with)
+3. [What I Learned](#3-what-i-learned)
+4. [Continued Development](#4-continued-development)
+5. [Author](#5-author)
 
 ---
 
